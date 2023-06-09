@@ -1,5 +1,7 @@
 #  React 3D Portfolio Website with Three.js
 
+Open-source project || React || ThreeJS ||
+
 This is a portfolio project developed with React and demonstrates the usage of React Three.js and animations. It showcases interactive 3D elements and provides an engaging user experience. This README will guide you through the process of cloning the project from GitHub to your local repository and explain how to install the necessary dependencies and run the project.
 
 ## Cloning the Project
